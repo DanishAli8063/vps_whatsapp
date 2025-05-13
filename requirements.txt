@@ -1,0 +1,19 @@
+openai
+streamlit
+langchain
+faiss-cpu
+pandas
+Pillow
+numpy
+langchain_community
+tiktoken
+Pyyaml
+pywin32
+fpdf
+paddleocr
+paddlepaddle -f https://www.paddlepaddle.org.cn/whl/mkl/stable.html
+undetected-chromedriver
+pyperclip
+pyautogui
+gspread 
+oauth2client
